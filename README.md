@@ -155,7 +155,8 @@ python main.py
 #### This project was developed to help identify improved parameters for an experimental PID controller used to regulate the temperature of an ohmic heating cell.
 ---
 
+
 **Author:**
 **Rafael Mamedio**  
-Chemical Engineer 
+Chemical Engineer   
 Field of expertise: Process Modeling, Simulation, and Control
