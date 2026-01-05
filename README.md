@@ -39,31 +39,6 @@ A função objetivo penaliza:
 ---
 
 
-## Estrutura
-├── main.py
-├── config.json
-├── otimizacao/
-│ ├── busca_exaustiva.py
-│ ├── algoritmo_genetico.py
-│ └── funcao_objetivo.py
-├── modelo/
-│ └── modelo_do_processo.py
-├── simulacao/
-│ ├── avaliacao.py
-│ └── simulacao.py
-├── controlador/
-│ └── controlador_PID.py
-├── apresentacao/
-│ └── figuras_e_textos.py
-├── data/
-│ ├── historico/
-│ │ └── [...]
-│ ├── dados_ultima_execucao.json
-│ └── salvar.py
-└── README.md
----
-
-
 ## Requisitos
 
 - Python ≥ 3.9  
