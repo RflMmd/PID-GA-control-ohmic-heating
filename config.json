@@ -1,0 +1,18 @@
+{
+    "auto_save": true,
+    "setpoint": 20,
+    "tempo_simulado": 10,
+    "passo_de_tempo": 0.5,
+    "peso_controle_funObj": 0.05,
+    "acomodacao_offset": 0.02,
+    "Limites_Kp": [10, 15],
+    "Limites_Ki": [0.0001, 0.1],
+    "Limites_Kd": [0.0001, 1],
+    "Filtro_derivativo": 20,
+    "Faixa_Aceitavel_PWM_max": [240, 255],
+    "Pontos_Busca_Exaustiva": 50,
+    "Individuos_GA": 50,
+    "Geracoes_GA": 10,
+    "Chance_mutacao": 0.15,
+    "Chance_cruzamento": 0.33
+}
