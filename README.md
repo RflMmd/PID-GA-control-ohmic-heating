@@ -71,7 +71,9 @@ python main.py
 
 **Autor:**
 Rafael Felipe Neves Mamedio
-_Engenheiro Químico_
+
+_Engenheiro Químico_\\
+
 Área: _Modelagem, Simulação e Controle de Processos_
 
 
