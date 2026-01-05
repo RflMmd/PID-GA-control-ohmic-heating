@@ -1,6 +1,4 @@
-#########
 # PT-BR #
-#########
 
 # Otimização de Controlador PID com Busca Exaustiva e Algoritmo Genético
 
@@ -102,6 +100,4 @@ _Engenheiro Químico_
 Área: _Modelagem, Simulação e Controle de Processos_
 
 
-##########
 #   EN   #
-##########
