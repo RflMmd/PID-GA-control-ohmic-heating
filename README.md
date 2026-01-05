@@ -69,7 +69,7 @@ python main.py
 ---
 
 
-### Nota: 
+### Nota
 Este projeto foi desenvolvido para ajudar a identificar melhores parâmetros para um controlador PID experimental utilizado para controlar a temperatura de uma célula de aquecimento ôhmico.
 ---
 
@@ -151,7 +151,7 @@ python main.py
 ---
 
 
-### Note: 
+### Note
 This project was developed to help identify improved parameters for an experimental PID controller used to regulate the temperature of an ohmic heating cell.
 ---
 
