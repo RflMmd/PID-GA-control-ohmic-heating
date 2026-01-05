@@ -1,0 +1,42 @@
+{
+    "Configurações": {
+        "Setpoint [ºC]": 20,
+        "tempo simulado [s]": 400,
+        "Offset considerado [%]": 0.02,
+        "Pontos de Busca Exaustiva": 50,
+        "Indivíduos GA": 100,
+        "Gerações GA": 15,
+        "Chance de Mutação [%]": 0.15,
+        "Chance do Cruzamento [%]": 0.45
+    },
+    "Constantes melhor controlador - Busca Exaustiva [Kp, Ki, Kd]": [
+        14.96650151537817,
+        0.04063377650221871,
+        0.009387029212399882
+    ],
+    "Dados Busca Exaustiva": {
+        "constantes [Kp, Ki, Kd]": [
+            14.96650151537817,
+            0.04063377650221871,
+            0.009387029212399882
+        ],
+        "overshoot [%]": 9.111501669502964,
+        "SettTime [s]": 144.0,
+        "umax [PWM]": 303.08484199252337
+    },
+    "Constantes melhor controlador - Algoritmo Genético [Kp, Ki, Kd]": [
+        11.290707934937583,
+        0.0035820671248630205,
+        0.061363419156973825
+    ],
+    "Dados GA": {
+        "constantes [Kp, Ki, Kd]": [
+            11.290707934937583,
+            0.0035820671248630205,
+            0.061363419156973825
+        ],
+        "overshoot [%]": "0.9638814502494952",
+        "SettTime [s]": 400.5,
+        "umax [PWM]": "250.35952636154119"
+    }
+}
