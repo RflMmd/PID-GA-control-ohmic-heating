@@ -145,6 +145,9 @@ python main.py
 - Automatically save data (when enabled)
 ---
 
+### Note: 
+This project was developed to help find better parameters for an experimental PID Controller that controls the temperature of an ohmic heating cell.
+
 
 **Author:**
 **Rafael Mamedio**  
