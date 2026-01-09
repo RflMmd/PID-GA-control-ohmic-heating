@@ -11,6 +11,7 @@ _Este repositório implementa um modelo dinâmico derivado fisicamente do proces
 
 
 ## Objetivo do Projeto
+Este repositório implementa uma estratégia para a otimização de um controlador PID aplicado em sistema de aquecimento ôhmico baseada em uma função de transferência derivada de um modelo dinâmico fundamentado em princípios físicos.
 
 Este projeto tem como objetivo:
 - Ajustar automaticamente os parâmetros **Kp, Ki e Kd** de um controlador PID  
@@ -101,6 +102,7 @@ _This repository implements a physically derived dynamic model of the ohmic heat
 
 
 ## Project Objective
+This repository implements a strategy for optimizing a PID controller applied to an ohmic heating system based on a transfer function derived from a dynamic model grounded in physical principles.
 
 This project aims to:
 - Automatically tune the **Kp, Ki, and Kd** parameters of a PID controller
