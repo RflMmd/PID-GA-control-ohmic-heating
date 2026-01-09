@@ -80,7 +80,7 @@ python main.py
 
 
 *Publications*:
-- R. F. N. Mamedio & G. R. Ströher, “Implementação de lógica de controle para o tratamento térmico por meio da tecnologia de aquecimento ôhmico”, Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR, Curitiba, PR, 2025 (link: https://www.even3.com.br/anais/sei-sicite-2025-593680/1256543-implementacao-de-logica-de-controle-para-o-tratamento-termico-por-meio-da-tecnologia-de-aquecimento-ohmico_
+- R. F. N. Mamedio & G. R. Ströher, “Implementação de lógica de controle para o tratamento térmico por meio da tecnologia de aquecimento ôhmico”, Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR, Curitiba, PR, 2025 (link: https://www.even3.com.br/anais/sei-sicite-2025-593680/1256543-implementacao-de-logica-de-controle-para-o-tratamento-termico-por-meio-da-tecnologia-de-aquecimento-ohmico
 ---
 
 
@@ -171,7 +171,7 @@ python main.py
 
 
 *Publications*:
-- R. F. N. Mamedio & G. R. Ströher, “Implementação de lógica de controle para o tratamento térmico por meio da tecnologia de aquecimento ôhmico”, Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR, Curitiba, PR, 2025 (link: https://www.even3.com.br/anais/sei-sicite-2025-593680/1256543-implementacao-de-logica-de-controle-para-o-tratamento-termico-por-meio-da-tecnologia-de-aquecimento-ohmico_
+- R. F. N. Mamedio & G. R. Ströher, “Implementação de lógica de controle para o tratamento térmico por meio da tecnologia de aquecimento ôhmico”, Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR, Curitiba, PR, 2025 (link: https://www.even3.com.br/anais/sei-sicite-2025-593680/1256543-implementacao-de-logica-de-controle-para-o-tratamento-termico-por-meio-da-tecnologia-de-aquecimento-ohmico
 ---
 
 
