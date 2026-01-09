@@ -26,7 +26,7 @@ Este projeto tem como objetivo:
 ### 1) Busca Exaustiva
 - Varredura discreta do espaço de busca dos parâmetros PID  
 - Avaliação da função objetivo para cada combinação  
-- Garantia de ótimo local dentro dos limites e critérios definidos  
+- Garantia do melhor desempenho dentro do espaço discretizado e critérios definidos
 
 ### 2) Algoritmo Genético
 - População inicial baseada na melhor solução da Busca Exaustiva  
@@ -117,7 +117,7 @@ This project aims to:
 ### 1) Exhaustive Search
 - Discrete scanning of the PID parameter search space
 - Evaluation of the objective function for each combination
-- Guarantee of a local optimum within the defined limits and criteria 
+- Guaranteeing optimal performance within the discretized space and defined criteria
 
 ### 2) Genetic Algorithm
 - Initial population based on the best solution from the Exhaustive Search
