@@ -2,8 +2,8 @@ PT-BR: _A função de transferência empregada neste projeto foi derivada de um 
 
 EN: _The transfer function employed in this project was derived from a dynamic, physics-based model of the ohmic heating process. The model is based on coupled energy balances for the processed material and the ohmic cell wall, considering natural convection and temperature-dependent electrical conductivity. The governing equations were discretized using the finite difference method, linearized around an operating point, and transformed into the Laplace domain. Model parameters were obtained experimentally, and the optimized controllers were implemented and validated in a real thermal system._
 
-This repository implements the modeling, optimization, and control logic described in:
-- R. F. N. Mamedio & G. R. Ströher, “Implementação de lógica de controle para o tratamento térmico por meio da tecnologia de aquecimento ôhmico”, Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR, Curitiba, PR, 2025 — associated with this repository and experimental validation of the control strategies.
+*Publications*:
+- R. F. N. Mamedio & G. R. Ströher, “Implementação de lógica de controle para o tratamento térmico por meio da tecnologia de aquecimento ôhmico”, Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR, Curitiba, PR, 2025 (link: https://www.even3.com.br/anais/sei-sicite-2025-593680/1256543-implementacao-de-logica-de-controle-para-o-tratamento-termico-por-meio-da-tecnologia-de-aquecimento-ohmico_
 ##
 
 # PT-BR #
