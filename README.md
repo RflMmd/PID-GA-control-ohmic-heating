@@ -1,17 +1,13 @@
-PT-BR: _A função de transferência empregada neste projeto foi derivada de um modelo dinâmico, baseado em princípios físicos, do processo de aquecimento ôhmico. O modelo baseia-se em balanços de energia acoplados para o material processado e a parede da célula ôhmica, considerando convecção natural e condutividade elétrica dependente da temperatura. As equações governantes foram discretizadas utilizando o método das diferenças finitas, linearizadas em torno de um ponto de operação e transformadas para o domínio de Laplace. Os parâmetros do modelo foram obtidos experimentalmente, e os controladores otimizados foram implementados e validados em um sistema térmico real._
-
-EN: _The transfer function employed in this project was derived from a dynamic, physics-based model of the ohmic heating process. The model is based on coupled energy balances for the processed material and the ohmic cell wall, considering natural convection and temperature-dependent electrical conductivity. The governing equations were discretized using the finite difference method, linearized around an operating point, and transformed into the Laplace domain. Model parameters were obtained experimentally, and the optimized controllers were implemented and validated in a real thermal system._
-
-*Publications*:
-- R. F. N. Mamedio & G. R. Ströher, “Implementação de lógica de controle para o tratamento térmico por meio da tecnologia de aquecimento ôhmico”, Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR, Curitiba, PR, 2025 (link: https://www.even3.com.br/anais/sei-sicite-2025-593680/1256543-implementacao-de-logica-de-controle-para-o-tratamento-termico-por-meio-da-tecnologia-de-aquecimento-ohmico_
-##
-
 # PT-BR #
 
 # Otimização de Controlador PID com Busca Exaustiva e Algoritmo Genético
 
 Projeto para sintonia de controladores PID utilizando Busca Exaustiva e Algoritmo Genético, aplicado à simulação de um processo térmico com restrições de PWM.
 ---
+
+## Contexto Científico:
+_Este repositório implementa um modelo dinâmico derivado fisicamente do processo de aquecimento ôhmico, baseado em balanços de energia e condutividade elétrica dependente da temperatura. Os parâmetros do modelo foram identificados experimentalmente e os controladores otimizados foram validados em um sistema térmico real._
+
 
 
 ## Objetivo do Projeto
@@ -82,6 +78,11 @@ python main.py
 ---
 
 
+*Publications*:
+- R. F. N. Mamedio & G. R. Ströher, “Implementação de lógica de controle para o tratamento térmico por meio da tecnologia de aquecimento ôhmico”, Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR, Curitiba, PR, 2025 (link: https://www.even3.com.br/anais/sei-sicite-2025-593680/1256543-implementacao-de-logica-de-controle-para-o-tratamento-termico-por-meio-da-tecnologia-de-aquecimento-ohmico_
+---
+
+
 **Autor:**
 **Rafael Mamedio**  
 Engenheiro Químico  
@@ -94,6 +95,9 @@ Engenheiro Químico
 
 Project for tuning PID controllers using Exhaustive Search and a Genetic Algorithm, applied to the simulation of a thermal process with PWM constraints.
 ---
+
+## Scientific Context
+_This repository implements a physically derived dynamic model of the ohmic heating process, based on energy balances and temperature-dependent electrical conductivity. Model parameters were experimentally identified, and the optimized controllers were validated on a real thermal system._
 
 
 ## Project Objective
@@ -161,6 +165,11 @@ python main.py
 
 ### Note
 #### This project was developed to help identify improved parameters for an experimental PID controller used to regulate the temperature of an ohmic heating cell.
+---
+
+
+*Publications*:
+- R. F. N. Mamedio & G. R. Ströher, “Implementação de lógica de controle para o tratamento térmico por meio da tecnologia de aquecimento ôhmico”, Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR, Curitiba, PR, 2025 (link: https://www.even3.com.br/anais/sei-sicite-2025-593680/1256543-implementacao-de-logica-de-controle-para-o-tratamento-termico-por-meio-da-tecnologia-de-aquecimento-ohmico_
 ---
 
 
